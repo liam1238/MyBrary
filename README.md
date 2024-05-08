@@ -8,7 +8,7 @@ The user has the option to also serach for authors or books.
 ## Exapmle of a book
 <img width="1512" alt="Screenshot 2024-05-08 at 12 59 24" src="https://github.com/liam1238/MyBrary/assets/74408724/92dcf390-a492-438f-ac7b-346c807977a2">
 
-## Add new book
+## Add a new book
 <img width="1511" alt="Screenshot 2024-05-08 at 13 13 56" src="https://github.com/liam1238/MyBrary/assets/74408724/07ea0741-473a-4691-a414-f878f3dbf517">
 
 ## Books section
